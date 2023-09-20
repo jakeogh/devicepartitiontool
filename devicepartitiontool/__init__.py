@@ -1,1 +1,1 @@
-#from .devicepartitiontool import devicepartitiontool
+from .devicepartitiontool import write
